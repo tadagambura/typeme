@@ -33,7 +33,7 @@ Quick personality and lifestyle quizzes ('What type of Londoner are you?', 'How 
 | Premium | Quiz packs |
 | Sponsored | Brand quizzes, clearly labelled |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
 ## Retention: The Progression Loop
 
@@ -67,6 +67,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Web first (so shared links open instantly), then Expo.
 - **Data:** On the device only; anonymous result counts.
+- **Backend:** Static web pages for shared quiz links and new quizzes. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
