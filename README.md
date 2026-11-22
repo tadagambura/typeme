@@ -55,6 +55,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | A related quiz suggestion |
 | Cadence | Weekly drops |
 
+## Animation and tone
+
+**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects, comic tragedy ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
+
+- Drumroll result reveal, then the result character makes a dramatic entrance under a spotlight
+- Share card animates in like a movie poster
+
+**Line we don't cross:** Never mocks a result type.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
