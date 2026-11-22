@@ -2,7 +2,7 @@
 
 **Fun quizzes with results worth sharing**
 
-> #28 of 32 · Wave 3: Seasonal and episodic · Used: Episodic · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style
+> #27 of 31 · Wave 3: Seasonal and episodic · Used: Episodic · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style
 
 ## What it is
 
@@ -83,5 +83,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 32 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
