@@ -2,7 +2,7 @@
 
 **Fun quizzes with results worth sharing**
 
-> #20 of 33 in the build order · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style
+> #29 of 33 · Wave 3: Seasonal and episodic · Used: Episodic · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style
 
 ## What it is
 
@@ -54,6 +54,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Result cards |
 | Next step | A related quiz suggestion |
 | Cadence | Weekly drops |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 

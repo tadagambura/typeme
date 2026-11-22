@@ -1,6 +1,6 @@
 # TypeMe: Spec
 
-**Fun quizzes with results worth sharing** · #20 of 33 in the build order · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style · Source: ChatGPT
+**Fun quizzes with results worth sharing** · #29 of 33 · Wave 3: Seasonal and episodic · Used: Episodic · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style · Source: ChatGPT
 
 ## One-liner
 
@@ -48,6 +48,11 @@ Prices are starting points; test before committing.
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 
