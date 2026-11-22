@@ -1,61 +1,76 @@
 # TypeMe: Spec
 
-**Rank in portfolio:** #11 of 15 (easiest → hardest) · **Difficulty:** Easy (content-heavy)
+**Fun quizzes with results worth sharing** · #20 of 33 in the build order · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style · Source: ChatGPT
 
 ## One-liner
 
-Quick personality and lifestyle quizzes with shareable results.
+Quick personality and lifestyle quizzes ('What type of Londoner are you?', 'How chaotic is your life?') with result cards designed for TikTok and Instagram stories.
 
 ## Problem / audience
 
-- **Who it's for:** Social-media users who like sharing quiz results.
-- **The problem it solves:** People love fun self-discovery quizzes and sharing what they got.
+- **Who it's for:** Social-media users who like quizzes and sharing their results.
+- **The problem it solves:** People love fun self-discovery and showing what they got.
+- **Example:** Someone sees a friend's 'Chaotic Good Londoner' result on their Story, taps the link, does the quiz and shares their own.
 
 ## MVP features (ship with only these)
 
-1. Quiz engine (questions, weighted answers, result types)
+1. Quiz engine: questions, weighted answers, result types
 2. 5–10 launch quizzes
-3. Result share card designed for TikTok/Instagram stories
-4. New quiz regularly
+3. Result share cards sized for Stories
+4. Regular new quizzes
 
 ## Not in MVP
 
 - Premium quiz packs
-- Sponsored quizzes
-- Daily quiz
+- Daily quiz streak
+- Sponsored quizzes, clearly labelled
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
-| Free | Quizzes, with ads |
-| Paid | Premium packs |
-| Ads | Main revenue: between quizzes / on results |
+| Free | All quizzes, with ads |
+| Premium | Quiz packs |
 | Sponsored | Brand quizzes, clearly labelled |
 
-Prices are starting points from the portfolio brief; test before committing.
+Prices are starting points; test before committing.
 
-## Platform & stack
+## Retention: The Progression Loop
 
-- **Platform:** Web first (shared links open instantly), then Expo.
-- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob). See the portfolio roadmap.
-- **Data:** Device only; anonymous result counts.
+| Stage | Design |
+|---|---|
+| Cue | New quiz drops (opt-in) |
+| Tiny win | Finish a quiz |
+| Progress | Quizzes completed, types collected |
+| Share | Result cards |
+| Next step | A related quiz suggestion |
+| Cadence | Weekly drops |
 
-## Growth engine hooks
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
 
-- **Shareable output:** Result cards: this app lives on sharing.
-- **Content pillars:** Quiz results; "Which type are you" trends; Relatable personality content
+## Platform & data
 
-## Notes
+- **Platform:** Web first (so shared links open instantly), then Expo.
+- **Data:** On the device only; anonymous result counts.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
-Hit-driven: one viral quiz can carry it, most won't. Needs steady quiz production. Avoid claiming scientific personality testing.
+## Growth engine
+
+- **Content pillars:** Quiz results; 'Which type are you' trends; Relatable humour
+- **Shareable output:** Result cards
+
+## Risks
+
+Hit-driven, and needs a steady flow of good quizzes. Never claim scientific personality testing.
 
 ## Launch checklist
 
-- [ ] Name checked on App Store / Play Store / trademark search
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
