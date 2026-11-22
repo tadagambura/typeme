@@ -49,12 +49,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects, comic tragedy ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
+**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects. Thirsty's plant death is the only animation that takes over the full screen ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
 
-- Drumroll result reveal, then the result character makes a dramatic entrance under a spotlight
-- Share card animates in like a movie poster
+- Result reveal: drumroll, spotlight and the character's grand entrance
+- Rare type: sparkles and a crown
+- Quiz start: the question cards shuffle like a magic trick
+- Share card made: it zooms in like a movie poster
+- Every type collected: the trophy shelf fills up
 
 **Line we don't cross:** Never mocks a result type.
 
