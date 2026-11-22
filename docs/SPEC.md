@@ -1,6 +1,6 @@
 # TypeMe: Spec
 
-**Fun quizzes with results worth sharing** · #29 of 33 · Wave 3: Seasonal and episodic · Used: Episodic · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style · Source: ChatGPT
+**Fun quizzes with results worth sharing** · #28 of 32 · Wave 3: Seasonal and episodic · Used: Episodic · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style · Source: ChatGPT
 
 ## One-liner
 
