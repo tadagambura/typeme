@@ -1,23 +1,69 @@
 # TypeMe
 
-Quick personality and lifestyle quizzes with shareable results
+**Fun quizzes with results worth sharing**
 
-## Status
+> #20 of 33 in the build order · Easy, content-heavy · Revenue potential: Low–high (hit-driven) · Social, Play & Style
 
-Planning. #11 of 15 in the portfolio build order (easy (content-heavy)). See [`docs/SPEC.md`](docs/SPEC.md).
+## What it is
+
+Quick personality and lifestyle quizzes ('What type of Londoner are you?', 'How chaotic is your life?') with result cards designed for TikTok and Instagram stories.
+
+## Why it's in the portfolio
+
+Built for virality: every result is a share, and shared links open instantly on the web. Mostly ad revenue. It's a cheap bet: one viral quiz can bring in a lot of users for the rest of the portfolio.
+
+## Who it's for
+
+Social-media users who like quizzes and sharing their results.
+
+**The problem:** People love fun self-discovery and showing what they got.
+
+## Version one
+
+- Quiz engine: questions, weighted answers, result types
+- 5–10 launch quizzes
+- Result share cards sized for Stories
+- Regular new quizzes
+
+**Example:** Someone sees a friend's 'Chaotic Good Londoner' result on their Story, taps the link, does the quiz and shares their own.
+
+## Later
+
+- Premium quiz packs
+- Daily quiz streak
+- Sponsored quizzes, clearly labelled
 
 ## How it makes money
 
-- **Free:** Quizzes, with ads
-- **Paid:** Premium packs
-- **Ads:** Main revenue: between quizzes / on results
-- **Sponsored:** Brand quizzes, clearly labelled
+| Model | Detail |
+|---|---|
+| Free | All quizzes, with ads |
+| Premium | Quiz packs |
+| Sponsored | Brand quizzes, clearly labelled |
 
-## Run locally
+## Why people come back
 
-_Added once the app is scaffolded._
+Built on **The Progression Loop**, the portfolio's shared retention framework
+(streaks with forgiveness, visible progress, milestones, recaps, no guilt-trips).
+
+| Stage | In TypeMe |
+|---|---|
+| Cue | New quiz drops (opt-in) |
+| Tiny win | Finish a quiz |
+| Progress | Quizzes completed, types collected |
+| Share | Result cards |
+| Next step | A related quiz suggestion |
+| Cadence | Weekly drops |
+
+## Watch-outs
+
+Hit-driven, and needs a steady flow of good quizzes. Never claim scientific personality testing.
+
+## Status
+
+Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of the App Portfolio. Marketing runs through the shared
-[growth-engine](https://github.com/tadagambura/growth-engine).
+Part of a portfolio of 33 small consumer apps that share one codebase, one retention module
+and one marketing system ([growth-engine](https://github.com/tadagambura/growth-engine)).
